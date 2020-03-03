@@ -40,7 +40,5 @@ class CKManager {
                 completion(true)
             }
         }
-
-        completion(false)
     }
 }
